@@ -1,2 +1,10 @@
 # Webpack_Demo
-webpack demo
+
+Author: Roy
+
+#Run
+----------------------------
+npm install
+
+webpack
+----------------------------
